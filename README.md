@@ -1,5 +1,13 @@
-I know you'll read this Testing :)
-
-Please add a designated /mix command that can stop playback, is restricted to manager+, and only uses audio in a /music directory.
-Appreciate it, ty :)
--MLG
+Featured Music Artists:
+(Do note not all of them are here and I probably missed a few.)
+- Frums
+- The Stupendium
+- Toby Fox
+- Teminite
+- Mafiapineapple
+- Oliver Buckland
+- Creo
+- MLG
+- Quree
+- Waterflame
+- Musiclide
